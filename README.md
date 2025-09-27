@@ -16,8 +16,3 @@ Below are the Labs Carried out for my Azure IT Helpdesk, Compute and Networking 
 - <b>6. Active Directory: Understanding DNS 🪟</b>
   - [Part 1 - Active Directory: Understanding DNS](https://github.com/cyberwahid01/6.1-Active-Directory-Understanding-DNS)
 
-<h2>Connect With Me 🤳</h2>
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/awahid01
